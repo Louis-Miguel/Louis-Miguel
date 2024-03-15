@@ -22,8 +22,6 @@ I started coding 5 years ago and fell in love with it. I hope to discover more t
 
 <p align="left"> <a href="https://www.github.com/louis-miguel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/louis-miguel-fermiza-019a8a2b9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/louis-miguel"><img src="https://github-readme-stats.vercel.app/api?username=louis-miguel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="louis-miguel's GitHub stats" /></a>
@@ -36,6 +34,6 @@ I started coding 5 years ago and fell in love with it. I hope to discover more t
 
 <div width="100%" align="center"><a href="https://github.com/louis-miguel/NBA-Team-Performance-Analysis-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=louis-miguel&repo=NBA-Team-Performance-Analysis-Model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/louis-miguel/Egg-Toss-Game-in-Pyret" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=louis-miguel&repo=Egg-Toss-Game-in-Pyret&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/radianceeeeeeee/ugnayan-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=radianceeeeeeee&repo=ugnayan-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
